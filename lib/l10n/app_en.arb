@@ -1,0 +1,15 @@
+{
+        "language" : "Language",
+        "mode" : "Mode",
+        "settings" : "Settings",
+        "light" : "Light",
+        "dark" : "Dark",
+        "list" : "To Do List",
+        "new_task" : "Add New Task",
+        "title_field" : "Title",
+        "description_field" : "Description",
+        "time" : "Select Time",
+        "add" : "Add",
+        "save" : "Save changes",
+        "upTask" : "Edit Task"
+}
